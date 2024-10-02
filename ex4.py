@@ -27,3 +27,4 @@ percentuais = {estado: (valor / faturamento_total) * 100 for estado, valor in fa
 # Exibição dos percentuais
 for estado, percentual in percentuais.items():
     print(f"{estado}: {percentual:.2f}%")
+

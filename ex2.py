@@ -27,3 +27,4 @@ if is_fibonacci(numero):
     print(f"O número {numero} pertence à sequência de Fibonacci.")
 else:
     print(f"O número {numero} NÃO pertence à sequência de Fibonacci.")
+

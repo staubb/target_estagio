@@ -13,6 +13,7 @@ string_original = input(str("Digite uma string: "))
 string_invertida = ""
 
 # Percorrer a string original de trás para frente e construir a nova string
+
 for i in range(len(string_original) - 1, -1, -1):
     string_invertida += string_original[i]
 

@@ -14,3 +14,4 @@ while K < INDICE:
     SOMA = SOMA + K
 
 print(f"O valor da soma é: {SOMA}")
+

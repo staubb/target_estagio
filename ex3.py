@@ -41,3 +41,4 @@ dias_acima_da_media = len([dia for dia in faturamento_valido if dia > media_mens
 print(f"Menor faturamento do mês: {menor_faturamento}")
 print(f"Maior faturamento do mês: {maior_faturamento}")
 print(f"Número de dias com faturamento acima da média mensal: {dias_acima_da_media}")
+
